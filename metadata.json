@@ -1,0 +1,8 @@
+{
+  "name": "Remix Kigali Academic ERP - School Management System",
+  "description": "Comprehensive, multi-level School ERP and Student Information Management System supporting Nursery, Primary, O-Level, and A-Level with grading, report cards, fees in RWF, and role-based portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
